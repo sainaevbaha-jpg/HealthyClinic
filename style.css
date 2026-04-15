@@ -1,0 +1,225 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap');
+body{
+      font-family: "Manrope", sans-serif;
+}
+.qwery{
+    display: flex;
+    background-color: rgb(255, 255, 255);
+    align-items: center;
+}
+.qwery ul{
+    display: flex;
+    list-style: none;
+    gap: 20px;
+    
+    background-color: rgb(255, 255, 255)
+} 
+.container{
+    width: 1240px;
+    height: 40px;
+    margin: auto;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid rgb(255, 246, 246);
+    display: flex;
+    justify-content: space-between;
+}
+.era{
+    padding-top: 100px;
+    
+}
+.rea{
+    position: absolute;
+    top: 0px;
+    right: 0px;
+
+}
+
+.eracontainer{
+    width: 1240px;
+    height: 500px;
+    margin: auto;
+    position: relative;
+}
+.era button{
+     background-color: rgb(41, 126, 184);
+     color: rgb(255, 255, 255);
+     width: 100px;
+     height: 35px;
+     border-radius: 10%;
+     border: none;
+}
+.qwerty{
+    border: none;
+    width: 70px;
+    height: 25px;
+
+}
+.werty{
+    background-color: rgb(112, 153, 207);
+    border-radius: 5px;
+    border: none;
+    width: 97px;
+    height: 44px;
+}
+.isko h4{
+    color: rgb(135, 167, 255);
+    font-size: 10px;
+    margin-left: 600px;
+
+}
+.isko h2{
+    margin-left: 465px;
+    font-weight: 800;
+    font-size: 25px;
+}
+.con{
+    font-size: 14px;
+    border-top: 3px solid #4D77FF;
+    width: 200px;
+    height: 166px;
+    padding: 40px 50px;
+    box-shadow: 10px 5px 10px rgba(22, 21, 21, 0.664);
+}
+.wertyyy{
+    display: flex;
+    gap: 30px;
+}
+.isko{
+    margin-top: 100px;
+    width: 1240px;
+    margin: auto;
+}
+
+
+
+.ujm{
+    width: 1240px;
+    height: 670px;
+    border: black;
+    position: relative;
+    margin: auto;
+    margin-top: 50px;
+}
+.qaz{
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
+.asd h2{
+    margin-top:  1px
+}
+.asd h5{    
+    margin-top: 50px;
+}
+.btn{
+    display: flex;
+    gap: 7px;
+}
+.xcv{
+    display: flex;
+    gap: 7px;
+}
+.asd h5{
+    color: #90a7f0;
+}
+.tyu{
+    border-radius: 5px;
+    width: 120px;
+    height: 45px;
+    background-color: #4D77FF;
+    color: white;
+    border: none;
+}
+.abdu{
+    line-height: 0px;
+    width: 200px;
+    position: absolute;
+    bottom: 360px;
+    left: 600px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px 10px #95979ebb;
+
+}
+.ikm{
+    color: #90a7f0;
+}
+.ert{
+    display: flex;
+}
+.olm{
+    display: flex;
+}
+.mnb{
+    font-size: 15px;
+}
+
+.klacc{
+    margin-top: 80px;
+}
+
+.class{
+    display: flex;
+    margin-top: 300px;
+    padding-bottom: 100px;
+    gap: 65px;
+    align-items: center;
+}
+.tic{
+    display: flex;
+    gap: 5px;
+}
+.fgh{
+    border-radius: 5px;
+    width: 350px;
+    height: 45px;
+    background-color: #4D77FF;
+    color: white;
+    border: none;
+}
+.mmm{
+    text-align: center;
+}
+.amir{
+    font-weight: 900;
+    text-align: center;
+}
+.temir h3{
+    font-weight: 900;
+    font-size: 30px;
+}
+.temir h4{
+    font-size: 15px ;
+}
+.temir{
+    text-align: center;
+    border-top: 5px solid blue;
+    width: 287px;
+    border-radius: 5px;
+    box-shadow: 10px 10px 10px rgba(141, 141, 141, 0.651);
+}
+.temir h6{
+    color: #5f5e5e;
+}
+.esugey{
+    display: flex;
+    gap: 30px;
+    margin-left: 200px;
+    padding-bottom: 100px;
+}
+.amir{
+    color: #4D77FF;
+}
+.isss h1{
+    text-align: center;
+}
+.isss h3{
+    text-align: center;
+}
+.aaam{
+    display: flex;
+    gap: 100px;
+    align-items: center;
+}
+.fggg{
+   padding-bottom: 50px; 
+}
